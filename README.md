@@ -1,1 +1,1 @@
-# Challenge2_Telecom_X_alura_latam
+#Proyecto de analisis de churn de clientes de Telecom-X
