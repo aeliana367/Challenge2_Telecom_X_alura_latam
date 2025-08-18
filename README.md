@@ -21,4 +21,14 @@ El principal problema que enfrenta Telecom X es una alta tasa de cancelaciones d
 
 Este repositorio cuenta con los siguientes elementos:
     *README : Este archivo, con una breve descripcion del proyecto.
+    *telecomx.ipynb : El archivo principal del proyecto que contiene todo el código Python, el análisis, las visualizaciones y el informe final.
+
+
+*Herramientas y librerias utilizadas
+
+    *pandas: para la manipulacion y procesamiento de los datos 
+    *numpy:
+    *matplotlib:
+    *seaborn:
+
     
