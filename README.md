@@ -26,9 +26,29 @@ Este repositorio cuenta con los siguientes elementos:
 
 *Herramientas y librerias utilizadas
 
-    *pandas: para la manipulacion y procesamiento de los datos 
-    *numpy:
-    *matplotlib:
-    *seaborn:
+    *pandas: para la manipulacion y procesamiento de los datos. 
+    *numpy: para operaciones numericas eficientes. 
+    *matplotlib: para la creacion de graficos  y visualizaciones.
+    *seaborn: para la visualizacion de estadisticas  complejas.
+
+
+*Pasos del analisis 
+
+El proyecto tiene la siguiente estructura:
+
+   1)_ Recopilacion y carga de datos:Importacion del dataset inicial (JSON) en un entorno de trabajo de Python.
+   2)_Limpieza y procesamiento de datos: 
+      *Normalizacion de la estructura JSON.
+      *Manejo de valores nulos o vacios.
+      *Conversion de tipos de datos.
+      *Transformación de valores categóricos ('Yes'/'No' a 1/0).
+      *Unión de DataFrames para crear un dataset único y consolidado.
+
+   3)_Analisis exploratorio de datos (EDA):
+      *Calculo de la tasa general del churn.
+      *Analisis de la distrubucion de churn  por variables categoricas.
+      *Analisis de la distrubucion de churn  por variables numericas,utilizando estadisticas descriptivas, histogramas y box plots para identificar valores.
+
+    
 
     
