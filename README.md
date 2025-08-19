@@ -1,7 +1,7 @@
-#Proyecto de analisis de churn de clientes de Telecom-X
+Proyecto de analisis de churn de clientes de Telecom-X
 
 
-#Vision  general del proyecto 
+Vision  general del proyecto 
 
 
 
@@ -9,7 +9,7 @@ Este repositorio contiene un proyecto de analisis de datos que tiene como objeti
 para Telecom X, una empresa ficticia del sector de las telecomunicaciones y como parte del rol de asistente de datos , el objetivo fue recopilar, limpiar, procesar y analizar los datos de los clientes para identificar los factores clave que contribuyen a la pérdida de usuarios. 
 
 
-#Objetivo y analisis 
+Objetivo y analisis 
 
 El principal problema que enfrenta Telecom X es una alta tasa de cancelaciones de servicios, por lo tanto este proyecto  tiene como objetivo:
     *Identificar patrones y tendencias en los datos de los clientes que abandonan. 
@@ -24,7 +24,7 @@ Este repositorio cuenta con los siguientes elementos:
     *telecomx.ipynb : El archivo principal del proyecto que contiene todo el código Python, el análisis, las visualizaciones y el informe final.
 
 
-*Herramientas y librerias utilizadas
+Herramientas y librerias utilizadas
 
     *pandas: para la manipulacion y procesamiento de los datos. 
     *numpy: para operaciones numericas eficientes. 
@@ -32,7 +32,7 @@ Este repositorio cuenta con los siguientes elementos:
     *seaborn: para la visualizacion de estadisticas  complejas.
 
 
-*Pasos del analisis 
+Pasos del analisis 
 
 El proyecto tiene la siguiente estructura:
 
